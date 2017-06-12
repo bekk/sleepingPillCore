@@ -10,7 +10,7 @@ You can consume the published events from JavaZone by using the public JSON-api.
 
 **API for talks in production:**
 To fetch the conferences in the system use the following:
-https://sleepingpill.javazone.no/public/allSessions
+http://sleepingPillCore-prod-bekk.eu-central-1.elasticbeanstalk.com/public/allSessions
 
 This will give the following json:
 ```javascript
