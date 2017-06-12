@@ -30,7 +30,7 @@ This will give the following json:
 To fetch the sessions for each conference add the conference slug to the url, for example:
 
 ```
-https://sleepingpill.javazone.no/public/allSessions/javazone_2017
+http://fagdag_2017_09_01/public/allSessions/fagdag_2017_09_01
 ```
 
 The API returns a list of the published talks for the year. The following format are an example:
